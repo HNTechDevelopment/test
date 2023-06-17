@@ -1,32 +1,32 @@
 {
-"products": [
-{
-"id": "p1",
-"name": "Red Shirt",
-"description": "A red shirt - it is pretty red!",
-"price": 29.99,
-"imageUrl": "https://cdn.pixabay.com/photo/2016/10/02/22/17/red-t-shirt-1710578_1280.jpg"
-},
-{
-"id": "p2",
-"name": "Trousers",
-"description": "A nice pair of trousers.",
-"price": 59.99,
-"imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Trousers%2C_dress_%28AM_1960.022-8%29.jpg/512px-Trousers%2C_dress_%28AM_1960.022-8%29.jpg"
-},
-{
-"id": "p3",
-"name": "Yellow Scarf",
-"description": "Warm and cozy - exactly what you need for the winter.",
-"price": 19.99,
-"imageUrl": "https://live.staticflickr.com/4043/4438260868_cc79b3369d_z.jpg"
-},
-{
-"id": "p4",
-"name": "A Pan",
-"description": "Prepare any meal you want.",
-"price": 49.99,
-"imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Cast-Iron-Pan.jpg/1024px-Cast-Iron-Pan.jpg"
-}
-]
+  "products": [
+    {
+      "id": "p5",
+      "name": "Computer",
+      "description": "A high-performance computer for all your computing needs.",
+      "price": 1499.99,
+      "imageUrl": "https://lh3.googleusercontent.com/WORUHK3RhZS3SJc_a7nB1owH_S0_pkdrNNKWFOiew3pZAhDyzDLLd92L6EIyl8TGwTs1rFCwMj3E-qs"
+    },
+    {
+      "id": "p6",
+      "name": "Snowboard",
+      "description": "Hit the slopes with this stylish and durable snowboard.",
+      "price": 299.99,
+      "imageUrl": "https://lh3.googleusercontent.com/WORUHK3RhZS3SJc_a7nB1owH_S0_pkdrNNKWFOiew3pZAhDyzDLLd92L6EIyl8TGwTs1rFCwMj3E-qs"
+    },
+    {
+      "id": "p7",
+      "name": "Camera",
+      "description": "Capture your precious moments with this professional-grade camera.",
+      "price": 999.99,
+      "imageUrl": "https://lh3.googleusercontent.com/WORUHK3RhZS3SJc_a7nB1owH_S0_pkdrNNKWFOiew3pZAhDyzDLLd92L6EIyl8TGwTs1rFCwMj3E-qs"
+    },
+    {
+      "id": "p8",
+      "name": "House",
+      "description": "A beautiful and spacious house in a desirable location.",
+      "price": 999999.99,
+      "imageUrl": "https://lh3.googleusercontent.com/WORUHK3RhZS3SJc_a7nB1owH_S0_pkdrNNKWFOiew3pZAhDyzDLLd92L6EIyl8TGwTs1rFCwMj3E-qs"
+    }
+  ]
 }
