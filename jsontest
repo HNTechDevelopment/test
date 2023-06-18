@@ -1,32 +1,36 @@
 {
-  "products": [
-    {
-      "id": "p5",
-      "name": "Computer",
-      "description": "A high-performance computer for all your computing needs.",
-      "price": 1499.99,
-      "imageUrl": "https://lh3.googleusercontent.com/WORUHK3RhZS3SJc_a7nB1owH_S0_pkdrNNKWFOiew3pZAhDyzDLLd92L6EIyl8TGwTs1rFCwMj3E-qs"
-    },
-    {
-      "id": "p6",
-      "name": "Snowboard",
-      "description": "Hit the slopes with this stylish and durable snowboard.",
-      "price": 299.99,
-      "imageUrl": "https://lh3.googleusercontent.com/WORUHK3RhZS3SJc_a7nB1owH_S0_pkdrNNKWFOiew3pZAhDyzDLLd92L6EIyl8TGwTs1rFCwMj3E-qs"
-    },
-    {
-      "id": "p7",
-      "name": "Camera",
-      "description": "Capture your precious moments with this professional-grade camera.",
-      "price": 999.99,
-      "imageUrl": "https://lh3.googleusercontent.com/WORUHK3RhZS3SJc_a7nB1owH_S0_pkdrNNKWFOiew3pZAhDyzDLLd92L6EIyl8TGwTs1rFCwMj3E-qs"
-    },
-    {
-      "id": "p8",
-      "name": "House",
-      "description": "A beautiful and spacious house in a desirable location.",
-      "price": 999999.99,
-      "imageUrl": "https://lh3.googleusercontent.com/WORUHK3RhZS3SJc_a7nB1owH_S0_pkdrNNKWFOiew3pZAhDyzDLLd92L6EIyl8TGwTs1rFCwMj3E-qs"
-    }
-  ]
+"products": [
+{
+"id": "p1",
+"name": "Nachos Hacendado",
+"description": "Paquete 150 g | 6,334 €/kg",
+"storeName": "VlcShop",
+"price": 0.95,
+"imageUrl": "https://prod-mercadona.imgix.net/images/ab3576472e1a3da12ba550fa0043d678.jpg?fit=crop&h=300&w=300"
+},
+{
+"id": "p2",
+"name": "Leche entera Hacendado",
+"description": "Brick 1 L | 0,91 €/L",
+"storeName": "VlcShop",
+"price": 0.91,
+"imageUrl": "https://prod-mercadona.imgix.net/images/3631d0a515de4e1ac9237295370bf394.jpg?fit=crop&h=300&w=300"
+},
+{
+"id": "p3",
+"name": "Pan de molde blanco familiar Hacendado",
+"description": "Paquete 26 rebanadas (820 g) | 1,525 €/kg",
+"storeName": "SpainStore",
+"price": 1.25,
+"imageUrl": "https://prod-mercadona.imgix.net/images/4d548c07b9968e297507fb0275a38e8c.jpg?fit=crop&h=300&w=300"
+},
+{
+"id": "p4",
+"name": "Eau de parfum mujer Verissime Bright for her",
+"description": "Frasco 100 ml | 11,00 €/100 ml",
+"storeName": "MercadoZe",
+"price": 11.0,
+"imageUrl": "https://prod-mercadona.imgix.net/images/08b36462f347c45c8446e3e888628a1b.jpg?fit=crop&h=300&w=300"
+}
+]
 }
