@@ -1,36 +1,36 @@
 {
-"products": [
-{
-"id": "p1",
-"name": "Nachos Hacendado",
-"description": "Paquete 150 g | 6,334 €/kg",
-"storeName": "VlcShop",
-"price": 0.95,
-"imageUrl": "https://prod-mercadona.imgix.net/images/ab3576472e1a3da12ba550fa0043d678.jpg?fit=crop&h=300&w=300"
-},
-{
-"id": "p2",
-"name": "Leche entera Hacendado",
-"description": "Brick 1 L | 0,91 €/L",
-"storeName": "VlcShop",
-"price": 0.91,
-"imageUrl": "https://prod-mercadona.imgix.net/images/3631d0a515de4e1ac9237295370bf394.jpg?fit=crop&h=300&w=300"
-},
-{
-"id": "p3",
-"name": "Pan de molde blanco familiar Hacendado",
-"description": "Paquete 26 rebanadas (820 g) | 1,525 €/kg",
-"storeName": "SpainStore",
-"price": 1.25,
-"imageUrl": "https://prod-mercadona.imgix.net/images/4d548c07b9968e297507fb0275a38e8c.jpg?fit=crop&h=300&w=300"
-},
-{
-"id": "p4",
-"name": "Eau de parfum mujer Verissime Bright for her",
-"description": "Frasco 100 ml | 11,00 €/100 ml",
-"storeName": "MercadoZe",
-"price": 11.0,
-"imageUrl": "https://prod-mercadona.imgix.net/images/08b36462f347c45c8446e3e888628a1b.jpg?fit=crop&h=300&w=300"
-}
-]
+  "products": [
+    {
+      "id": "p1",
+      "name": "Refreshing Drink",
+      "description": "Refreshing and fizzy drink, 500ml bottle",
+      "storeName": "BeverageWorld",
+      "price": 1.99,
+      "imageUrl": "https://img.freepik.com/free-photo/three-bottles-beer_23-2148600945.jpg?t=st=1687785307~exp=1687785907~hmac=6f49fec5a2a9b870a49bad219279b50e713477fc1c994cbc1a98fb18abe61b39"
+    },
+    {
+      "id": "p2",
+      "name": "Luxury Women's Perfume",
+      "description": "Exquisite fragrance for women, 50ml bottle",
+      "storeName": "PerfumePalace",
+      "price": 79.99,
+      "imageUrl": "https://img.freepik.com/free-photo/front-view-fragrance-bottle-transparent-white-floor_140725-11635.jpg?w=360&t=st=1687784566~exp=1687785166~hmac=0a76676833802be3e77ff2a09ef7504e8a426dbd1d164824f2be5384b237c6bb"
+    },
+    {
+      "id": "p3",
+      "name": "Fresh Orange",
+      "description": "Juicy and tangy orange, 1 piece",
+      "storeName": "GroceryWorld",
+      "price": 0.55,
+      "imageUrl": "https://img.freepik.com/free-photo/sliced-whole-oranges_144627-3982.jpg?w=996&t=st=1687785241~exp=1687785841~hmac=b24dedb76e3523accbc16173789923654a178429ca63f68311035396958d2ecc"
+    },
+    {
+      "id": "p4",
+      "name": "White Sandwich Bread",
+      "description": "Soft and fluffy sandwich bread, 26 slices (820g)",
+      "storeName": "BakeryCorner",
+      "price": 2.99,
+      "imageUrl": "https://img.freepik.com/free-photo/milk-bread-white_1339-8030.jpg?w=996&t=st=1687785377~exp=1687785977~hmac=b0c81d460de6665a4d2e4a8ef6645a2fa35b60b23ac8272935287dfcaca03738"
+    }
+  ]
 }
