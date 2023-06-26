@@ -31,6 +31,38 @@
       "storeName": "BakeryCorner",
       "price": 2.99,
       "imageUrl": "https://img.freepik.com/free-photo/milk-bread-white_1339-8030.jpg?w=996&t=st=1687785377~exp=1687785977~hmac=b0c81d460de6665a4d2e4a8ef6645a2fa35b60b23ac8272935287dfcaca03738"
+    },
+    {
+      "id": "p5",
+      "name": "Chocolate Bar",
+      "description": "Delicious and indulgent chocolate bar, 100g",
+      "storeName": "ChocoDelights",
+      "price": 2.99,
+      "imageUrl": "https://img.freepik.com/free-photo/cocoa-beans-spread-around-chocolate-bars-wooden-table_23-2147873746.jpg?t=st=1687786279~exp=1687786879~hmac=9f8c9b516e37d9a36c625c9524815a08c3148ee18c0949185721a22b49e78e42g"
+    },
+    {
+      "id": "p6",
+      "name": "Laundry Detergent",
+      "description": "Gentle and effective detergent for clothes, 1L",
+      "storeName": "CleanClothes",
+      "price": 4.99,
+      "imageUrl": "https://img.freepik.com/free-photo/colorful-towels-liquid-laundry-detergent_93675-135766.jpg?w=996&t=st=1687785972~exp=1687786572~hmac=508493ac7cc1e65e14854d16e66a65d092f506b09f659b01ec680dcf24f71e35g"
+    },
+    {
+      "id": "p7",
+      "name": "Dog Food",
+      "description": "Nutritious and delicious dog food, 1kg",
+      "storeName": "PawsomePets",
+      "price": 7.99,
+      "imageUrl": "https://img.freepik.com/free-psd/pet-food-bag-mock-up-design_1307-133.jpg?w=740&t=st=1687786506~exp=1687787106~hmac=00b08078987bd25a27044ce25cccdb03dafbdf41babf386adadd8247164f3240"
+    },
+    {
+      "id": "p8",
+      "name": "Ice Cream",
+      "description": "Creamy and delightful ice cream, 3 Uni.",
+      "storeName": "SweetTreats",
+      "price": 3.99,
+      "imageUrl": "https://img.freepik.com/free-photo/ice-cream-cones_1101-962.jpg?w=996&t=st=1687786663~exp=1687787263~hmac=093ff82b65ebf90b0607610a85aabe1d5ea0edcfc541310b4731226829adae5e"
     }
   ]
 }
